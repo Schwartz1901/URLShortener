@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repos\\URLShortener\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7BEBE77-C582-4633-8016-1AA5F4B1570A}|URLShortener\\URLShortener.csproj|d:\\repos\\urlshortener\\urlshortener\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7BEBE77-C582-4633-8016-1AA5F4B1570A}|URLShortener\\URLShortener.csproj|solutionrelative:urlshortener\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7BEBE77-C582-4633-8016-1AA5F4B1570A}|URLShortener\\URLShortener.csproj|d:\\repos\\urlshortener\\urlshortener\\urlshortener.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D7BEBE77-C582-4633-8016-1AA5F4B1570A}|URLShortener\\URLShortener.csproj|solutionrelative:urlshortener\\urlshortener.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7BEBE77-C582-4633-8016-1AA5F4B1570A}|URLShortener\\URLShortener.csproj|d:\\repos\\urlshortener\\urlshortener\\shortenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7BEBE77-C582-4633-8016-1AA5F4B1570A}|URLShortener\\URLShortener.csproj|solutionrelative:urlshortener\\shortenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7BEBE77-C582-4633-8016-1AA5F4B1570A}|URLShortener\\URLShortener.csproj|d:\\repos\\urlshortener\\urlshortener\\urlentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7BEBE77-C582-4633-8016-1AA5F4B1570A}|URLShortener\\URLShortener.csproj|solutionrelative:urlshortener\\urlentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7BEBE77-C582-4633-8016-1AA5F4B1570A}|URLShortener\\URLShortener.csproj|d:\\repos\\urlshortener\\urlshortener\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7BEBE77-C582-4633-8016-1AA5F4B1570A}|URLShortener\\URLShortener.csproj|solutionrelative:urlshortener\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7BEBE77-C582-4633-8016-1AA5F4B1570A}|URLShortener\\URLShortener.csproj|d:\\repos\\urlshortener\\urlshortener\\urldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7BEBE77-C582-4633-8016-1AA5F4B1570A}|URLShortener\\URLShortener.csproj|solutionrelative:urlshortener\\urldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7BEBE77-C582-4633-8016-1AA5F4B1570A}|URLShortener\\URLShortener.csproj|d:\\repos\\urlshortener\\urlshortener\\urlshortener.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D7BEBE77-C582-4633-8016-1AA5F4B1570A}|URLShortener\\URLShortener.csproj|solutionrelative:urlshortener\\urlshortener.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7BEBE77-C582-4633-8016-1AA5F4B1570A}|URLShortener\\URLShortener.csproj|d:\\repos\\urlshortener\\urlshortener\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D7BEBE77-C582-4633-8016-1AA5F4B1570A}|URLShortener\\URLShortener.csproj|solutionrelative:urlshortener\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UrlEntry.cs",
+              "DocumentMoniker": "D:\\repos\\URLShortener\\URLShortener\\UrlEntry.cs",
+              "RelativeDocumentMoniker": "URLShortener\\UrlEntry.cs",
+              "ToolTip": "D:\\repos\\URLShortener\\URLShortener\\UrlEntry.cs",
+              "RelativeToolTip": "URLShortener\\UrlEntry.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T06:41:42.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShortenRequest.cs",
+              "DocumentMoniker": "D:\\repos\\URLShortener\\URLShortener\\ShortenRequest.cs",
+              "RelativeDocumentMoniker": "URLShortener\\ShortenRequest.cs",
+              "ToolTip": "D:\\repos\\URLShortener\\URLShortener\\ShortenRequest.cs",
+              "RelativeToolTip": "URLShortener\\ShortenRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T06:39:36.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "URLShortener.http",
+              "DocumentMoniker": "D:\\repos\\URLShortener\\URLShortener\\URLShortener.http",
+              "RelativeDocumentMoniker": "URLShortener\\URLShortener.http",
+              "ToolTip": "D:\\repos\\URLShortener\\URLShortener\\URLShortener.http",
+              "RelativeToolTip": "URLShortener\\URLShortener.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-09T06:31:59.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\repos\\URLShortener\\URLShortener\\appsettings.json",
+              "RelativeDocumentMoniker": "URLShortener\\appsettings.json",
+              "ToolTip": "D:\\repos\\URLShortener\\URLShortener\\appsettings.json",
+              "RelativeToolTip": "URLShortener\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-09T06:23:58.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\URLShortener\\URLShortener\\Program.cs",
+              "RelativeDocumentMoniker": "URLShortener\\Program.cs",
+              "ToolTip": "D:\\repos\\URLShortener\\URLShortener\\Program.cs",
+              "RelativeToolTip": "URLShortener\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T06:23:59.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainController.cs",
+              "DocumentMoniker": "D:\\repos\\URLShortener\\URLShortener\\Controllers\\MainController.cs",
+              "RelativeDocumentMoniker": "URLShortener\\Controllers\\MainController.cs",
+              "ToolTip": "D:\\repos\\URLShortener\\URLShortener\\Controllers\\MainController.cs",
+              "RelativeToolTip": "URLShortener\\Controllers\\MainController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T06:22:33.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UrlDbContext.cs",
+              "DocumentMoniker": "D:\\repos\\URLShortener\\URLShortener\\UrlDbContext.cs",
+              "RelativeDocumentMoniker": "URLShortener\\UrlDbContext.cs",
+              "ToolTip": "D:\\repos\\URLShortener\\URLShortener\\UrlDbContext.cs",
+              "RelativeToolTip": "URLShortener\\UrlDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T06:30:21.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "URLShortener.csproj",
+              "DocumentMoniker": "D:\\repos\\URLShortener\\URLShortener\\URLShortener.csproj",
+              "RelativeDocumentMoniker": "URLShortener\\URLShortener.csproj",
+              "ToolTip": "D:\\repos\\URLShortener\\URLShortener\\URLShortener.csproj",
+              "RelativeToolTip": "URLShortener\\URLShortener.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-09T06:30:06.108Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
